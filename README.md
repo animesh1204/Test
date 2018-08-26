@@ -1,2 +1,2 @@
 # Test
-# Hello World - A beigineer's project
+# Hello World - A new begineer's project
